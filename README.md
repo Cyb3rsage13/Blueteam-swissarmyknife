@@ -33,6 +33,7 @@ from: https://www.linkedin.com/posts/john-dwyer-xforce_threathunting-threatdetec
 https://www.reddit.com/r/blueteamsec/comments/11lo4g5/etw_integrity_hunting_tip/
 
 Registry configurations to stop onenote bypasses
+
 https://www.huntress.com/blog/addressing-initial-access
 
 CIDR Notation Subnetting Chart
