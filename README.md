@@ -17,10 +17,13 @@ https://cyber.wtf/2023/02/09/defeating-vmprotects-latest-tricks/
 
 https://blog.elcomsoft.com/2023/03/a-word-about-dictionaries/
 
+
 Chainsaw for Linux
 Recently started working on a Linux equivalent to chainsaw. 
 ChopChopGo, inspired by Chainsaw, utilizes Sigma rules for forensics artifact recovery, enabling rapid and comprehensive analysis of logs and other artifacts to identify potential security incidents and threats on Linux. 
+
 https://github.com/M00NLIG7/ChopChopGo
+
 
 
 ETW Integrity Hunting Tip: Microsoft-Windows-Security-Auditing publisher
@@ -33,7 +36,6 @@ from: https://www.linkedin.com/posts/john-dwyer-xforce_threathunting-threatdetec
 https://www.reddit.com/r/blueteamsec/comments/11lo4g5/etw_integrity_hunting_tip/
 
 Registry configurations to stop onenote bypasses
-
 https://www.huntress.com/blog/addressing-initial-access
 
 CIDR Notation Subnetting Chart
