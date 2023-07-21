@@ -33,33 +33,61 @@ I could stop the security log from logging those pesky 4688s and 4624s even afte
 So if you find those EID's in your environment, check Sec publisher registry key and make sure it hasn't been tampered with. Happy hunting, fam! "
 
 from: https://www.linkedin.com/posts/john-dwyer-xforce_threathunting-threatdetection-malware-activity-7038997228815867904-F8wj?utm_source=share&utm_medium=member_desktop
+
 https://www.reddit.com/r/blueteamsec/comments/11lo4g5/etw_integrity_hunting_tip/
 
+
+
 Registry configurations to stop onenote bypasses
+
 https://www.huntress.com/blog/addressing-initial-access
 
+
+
 CIDR Notation Subnetting Chart
+
 https://imgur.com/a/Rudahqq
 
+
+
 Columbus Project is a subdomain enumeration tool to find subdomains as fast as possible in a hassle free way.
+
 https://blog.elmasy.com/introducing-the-columbus-project/
 
+
+
 A modern tool for Windows kernel exploration and observability with a focus on security
+
 https://github.com/rabbitstack/fibratus/releases/tag/v1.10.0
 
+
+
 Server side prototype pollution, how to detect and exploit
+
 https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/
 
+
+
 BypassAV: This map lists the essential techniques to bypass anti-virus and EDR
+
 https://github.com/CMEPW/BypassAV
 
+
+
 Analyzing Shellcode with GPT
+
 https://www.archcloudlabs.com/projects/shellcode_gpt/
 
+
+
 The QR-Code Scanner/Generator that cares about your privacy, based on XZing Library.
+
 https://github.com/Fr4gorSoftware/SecScanQR
 
+
+
 Attack Flow v2.0.1
+
 Attack Flow is a language for describing how cyber adversaries combine and sequence various offensive techniques to achieve their goals. The project helps defenders and leaders understand how adversaries operate and improve their own defensive posture. This project is created and maintained by the MITRE Engenuity Center for Threat-Informed Defense in futherance of our mission to advance the start of the art and and the state of the practice in threat-informed defense globally. The project is funded by our research participants.
 
 https://center-for-threat-informed-defense.github.io/attack-flow/
